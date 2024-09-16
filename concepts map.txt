@@ -1,0 +1,13 @@
+# Chapter 1:
+1) print()
+2) escape sequences
+3) comment
+4) exercise 1
+5) exercise 2
+6) exercise 3
+7) exercise 4
+8) raw string
+9) print emoji 
+10) python as calculator 
+11) precedence and associativity
+12) variable 
