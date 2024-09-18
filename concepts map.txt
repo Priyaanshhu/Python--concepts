@@ -11,3 +11,23 @@
 10) python as calculator 
 11) precedence and associativity
 12) variable 
+
+# Chapter 2:
+1) string concatenation
+2) user input 
+3) typecasting 
+4) more about variable 
+5) two or more inputs in one line
+6) string formatting 
+7) exercise 1
+8) string indexing 
+9) string slicing 
+10) step argument 
+11) exercise 2
+12) string methods
+13) exercise 3 
+14) strip method
+15) find and replace method 
+16) center method 
+17) strings are immutable 
+18) assignment operator 
