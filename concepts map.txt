@@ -1,4 +1,4 @@
-# Chapter 1:
+# Chapter 1: Python basics, operators, calculations
 1) print()
 2) escape sequences
 3) comment
@@ -12,7 +12,7 @@
 11) precedence and associativity
 12) variable 
 
-# Chapter 2:
+# Chapter 2: All about strings
 1) string concatenation
 2) user input 
 3) typecasting 
@@ -32,7 +32,7 @@
 17) strings are immutable 
 18) assignment operator 
 
-# Chapter 3:
+# Chapter 3: All about conditionals and loops
 1) if statement 
 2) pass statement 
 3) else statement 
