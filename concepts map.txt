@@ -31,3 +31,22 @@
 16) center method 
 17) strings are immutable 
 18) assignment operator 
+
+# Chapter 3:
+1) if statement 
+2) pass statement 
+3) else statement 
+4) nested if-else
+5) exercise 1
+6) and, or operator 
+7) exercise 2
+8) elif statement 
+9) in keyword 
+10) while loop
+11) exercise 3
+12) exercise 4
+13) exercise 5
+14) for loop
+15) break and continue statement 
+16) exercise 6
+17) step argument in range function
