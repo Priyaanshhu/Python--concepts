@@ -50,3 +50,12 @@
 15) break and continue statement 
 16) exercise 6
 17) step argument in range function
+
+# Chapter 4: All about function
+1) function
+2) print vs return 
+3) exercise 1
+4) nested function 
+5) exercise 2
+6) default parameter 
+7) variable scope
