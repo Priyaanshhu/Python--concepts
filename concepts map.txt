@@ -12,7 +12,7 @@
 11) precedence and associativity
 12) variable 
 
-# Chapter 2: All about strings
+# Chapter 2: Strings
 1) string concatenation
 2) user input 
 3) typecasting 
@@ -32,7 +32,7 @@
 17) strings are immutable 
 18) assignment operator 
 
-# Chapter 3: All about conditionals and loops
+# Chapter 3: Conditionals and loops
 1) if statement 
 2) pass statement 
 3) else statement 
@@ -51,7 +51,7 @@
 16) exercise 6
 17) step argument in range function
 
-# Chapter 4: All about function
+# Chapter 4: Function
 1) function
 2) print vs return 
 3) exercise 1
@@ -59,3 +59,20 @@
 5) exercise 2
 6) default parameter 
 7) variable scope
+
+# Chapter 5: List
+1) list
+2) add data into list
+3) insert and extend method 
+4) delete data from list
+5) in keyword with list
+6) more list methods
+7) looping in list
+8) list inside list
+9) exercise 1
+10) exercise 2
+11) exercise 3
+12) exercise 4
+13) exercise 5
+14) min and max function 
+15) exercise 6
