@@ -76,3 +76,7 @@
 13) exercise 5
 14) min and max function 
 15) exercise 6
+
+# Chapter 6: Tuples
+1) tuple
+2) more about tuple
