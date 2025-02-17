@@ -1,0 +1,3 @@
+# print this /\/\/\/\/\ mountain 
+
+print("/\\/\\/\\/\\/\\")
