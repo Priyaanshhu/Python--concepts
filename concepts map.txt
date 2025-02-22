@@ -107,3 +107,12 @@
 
 # Advance flexible functions
 1) *args
+2) *args with normal parameter 
+3) args as argument
+4) exercise 1
+5) **kwargs
+6) function with all type of parameters 
+7) exercise 2
+
+# lambda expression 
+1) lambda expression 
