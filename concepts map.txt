@@ -116,3 +116,11 @@
 
 # lambda expression 
 1) lambda expression 
+
+# Advance build-in functions 
+1) enumerate 
+2) map
+3) filter
+4) iterator and iterable 
+5) zip
+6) *operator with zip
