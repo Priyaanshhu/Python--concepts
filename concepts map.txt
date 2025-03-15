@@ -124,3 +124,4 @@
 4) iterator and iterable 
 5) zip
 6) *operator with zip
+7) all and any function 
