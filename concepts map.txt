@@ -127,3 +127,4 @@
 7) all and any function 
 8) exercise 1
 9) sorted
+10) help() and docstring.py
